@@ -1,2 +1,4 @@
-931178805@qq.com
-用Maven整合Spring SpringMvc Hibernate 框架 ，仅实现简单的插入数据库数据功能。
+#用Maven整合Spring SpringMvc Hibernate 框架
+
+# 联系方式
+邮箱：<em>931178805@qq.com</em>
